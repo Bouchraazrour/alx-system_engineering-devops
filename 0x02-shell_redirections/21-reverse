@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Reverse and Concatenate input strings" | ./reverse.sh
+echo "$1" | ./21-reverse 
